@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718931835181",
+    "project_id": "hadasrecipe",
+    "storage_bucket": "hadasrecipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718931835181:android:566cea4778efd993e0bba4",
+        "android_client_info": {
+          "package_name": "com.example.hadasrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718931835181-1kd9e2f955p3a35fs33tt1oinn3145fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_Jf9fwQ8nGnK5dS8D2vbXXa7bl2sxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718931835181-1kd9e2f955p3a35fs33tt1oinn3145fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

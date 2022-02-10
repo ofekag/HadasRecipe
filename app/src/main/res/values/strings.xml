@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hadas Recipe</string>
+    <string name="all_the_recipes_one_place">All The Recipes.\nOnePlace.</string>
+    <string name="submit">Submit</string>
+    <string name="steps_number">Steps Number: %1$o</string>
+    <string name="add_step">Add Step</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+    <string name="sign_up_free">Sign up free</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+</resources>

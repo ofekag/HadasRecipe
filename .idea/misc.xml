@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/919b1e91a07ddbf34272a620f8cba519/transformed/core-1.7.0/res/layout/custom_dialog.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/drawable/gradient_background.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.239" />
+        <entry key="app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3921875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.239" />
+        <entry key="app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.3921875" />
+        <entry key="app/src/main/res/drawable/ic_cancel.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/ic_white_button_blue_stroke.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/item_border_background.xml" value="0.29128205128205126" />
+        <entry key="app/src/main/res/drawable/main_button_drawable_black.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/progress_animation.xml" value="0.5687347412109375" />
+        <entry key="app/src/main/res/drawable/rectangle_black_corners_100.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/rectangle_black_corners_100_ripple.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/rectangle_gray_corners_100.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/rectangle_white_corners_20.xml" value="0.174" />
+        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.166" />
+        <entry key="app/src/main/res/layout/activity_add_new_recipe.xml" value="0.32083333333333336" />
+        <entry key="app/src/main/res/layout/activity_api_recipes_page.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/layout/activity_recipe_page.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/activity_registration_page.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/activity_web_view.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/item_editable_ingredient.xml" value="0.13601823708206687" />
+        <entry key="app/src/main/res/layout/item_ingredient.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/layout/item_recipe.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/layout/item_step.xml" value="0.8528203328450521" />
+        <entry key="app/src/main/res/layout/itemlistrow.xml" value="0.2555267333984375" />
+        <entry key="app/src/main/res/layout/layout_alert_dialog.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/layout/layout_loading_dialog.xml" value="0.294478527607362" />
+        <entry key="app/src/main/res/menu/filter_item.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2315" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
